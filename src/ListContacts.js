@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ListContacts (props) {
+const ListContacts = (props) => {
 	return (
 		<ol className='contact-list'>
 			{props.contacts.map((contact) => (
