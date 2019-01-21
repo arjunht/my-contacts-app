@@ -1,0 +1,77 @@
+[33mcommit 4a5dbdd0c742a78b1410676e0f8a6b49c2571ca5[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Arjun Thippeswamy <ht.arjun@outlook.com>
+Date:   Tue Jan 15 21:51:35 2019 -0600
+
+    Convert ListContacts to a controlled component with a search field
+
+[33mcommit fde0bf2926d04f789c01ba1bbb8ec7f379ce8ec6[m
+Author: Arjun Thippeswamy <ht.arjun@outlook.com>
+Date:   Sun Jan 13 20:13:29 2019 -0600
+
+    Add prop types
+
+[33mcommit 5b729021acc4bdaa12ee7d1f08e8a4a617b8e3bd[m
+Author: Arjun Thippeswamy <ht.arjun@outlook.com>
+Date:   Thu Jan 10 22:15:44 2019 -0600
+
+    Hook up delete button to remove contacts
+
+[33mcommit e25c9edbf623d2bcb1e4144c374f7b46253bba64[m
+Author: Arjun Thippeswamy <ht.arjun@outlook.com>
+Date:   Thu Jan 10 20:55:23 2019 -0600
+
+    Move default contacts into App component as state
+
+[33mcommit af111b5b26a9c7ba3df683f33653b80219bf2d86[m
+Author: Arjun Thippeswamy <ht.arjun@outlook.com>
+Date:   Thu Jan 10 20:50:02 2019 -0600
+
+    Convert ListContacts to a Stateless Functional Component
+
+[33mcommit a97fc990e0943191ba4c3c82e4409ab2852c9104[m
+Author: Arjun Thippeswamy <ht.arjun@outlook.com>
+Date:   Thu Jan 10 20:44:39 2019 -0600
+
+    Add default contacts and render using ListContacts component
+
+[33mcommit 086ad9ce962b19b0bba3ebe56e682eb2d81d658e[m[33m ([m[1;31morigin/starter-files-added[m[33m)[m
+Author: Veronika Benkeser <veronika.benkeser@gmail.com>
+Date:   Mon Nov 19 16:29:51 2018 -0800
+
+    Change order of dependencies
+
+[33mcommit 838c1d525214c8f8326c18485db16548973f2941[m
+Author: Veronika Benkeser <veronika.benkeser@gmail.com>
+Date:   Mon Nov 19 16:23:41 2018 -0800
+
+    Update dependencies
+
+[33mcommit bdea78ae6e4cbc2386c98c35f309a96ca682a04b[m
+Author: Veronika Benkeser <veronika.benkeser@gmail.com>
+Date:   Mon Nov 19 16:07:29 2018 -0800
+
+    Update README.md
+
+[33mcommit 796c135bda14751349a76c251fe3f3a7773a7696[m
+Author: Veronika Benkeser <veronika.benkeser@gmail.com>
+Date:   Mon Nov 19 16:06:16 2018 -0800
+
+    Updated dependencies.
+
+[33mcommit 7d19a3987df9a2fa28f8d3b60e2d5f231cf0cb4c[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Thu Mar 1 14:35:41 2018 -0700
+
+    Starting files
+
+[33mcommit f1fbeff5533d82e33b075573fff684a99a82b845[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Thu Mar 1 13:42:15 2018 -0700
+
+    Add ContactList component
+
+[33mcommit 9cbf12adbbeed5353ffe8c8d53ffef756ebc03a4[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Thu Mar 1 13:06:42 2018 -0700
+
+    Initial commit of default CRA project

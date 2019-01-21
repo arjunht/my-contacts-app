@@ -7,7 +7,7 @@ class App extends Component {
 	
 	state = {
 		contacts: [],
-		screen: 'create'
+		screen: 'list'
 	}
 	
 	componentDidMount() {
@@ -36,6 +36,11 @@ class App extends Component {
 				<ListContacts 
 					contacts={this.state.contacts} 
 					onRemoveContact={this.removeContact}
+					onAddContact={() => {
+						this.setState({
+							screen: 'create'
+						})
+					}}
 				/>
 			)}
 			{this.state.screen === 'create' && (
